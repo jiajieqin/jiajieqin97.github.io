@@ -6,7 +6,7 @@
   <link href="https://qxj1.github.io/jiajieqin97.github.io/atom.xml" rel="self"/>
   
   <link href="https://qxj1.github.io/jiajieqin97.github.io/"/>
-  <updated>2023-07-09T08:46:58.316Z</updated>
+  <updated>2023-07-09T12:25:56.647Z</updated>
   <id>https://qxj1.github.io/jiajieqin97.github.io/</id>
   
   <author>
@@ -15,6 +15,27 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>my-first-blog</title>
+    <link href="https://qxj1.github.io/jiajieqin97.github.io/2023/07/09/my-first-blog/"/>
+    <id>https://qxj1.github.io/jiajieqin97.github.io/2023/07/09/my-first-blog/</id>
+    <published>2023-07-09T12:25:23.000Z</published>
+    <updated>2023-07-09T12:25:56.647Z</updated>
+    
+    <content type="html"><![CDATA[<p>first</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;first&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>any title</title>
