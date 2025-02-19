@@ -529,28 +529,26 @@ blockquote p {
 .author-avatar {
   display: block;
   vertical-align: top;
-  width: 100px;
-  height: 100px;
+  width: 150px;
+  height: 150px;
 }
 .author-avatar img {
   width: 100%;
   max-width: 200px;
   border-radius: 50%;
 }
-padding: 2px,
 .author-discrip {
   display: table-cell;
   vertical-align: top;
+  padding-top: 15px;
   padding-left: 15px;
   padding-right: 15px;
   line-height: 1;
 }
-padding: 2px h3,
 .author-discrip h3 {
   margin: 0px;
   font-size: 1.8rem;
 }
-padding: 2px .author-bio,
 .author-discrip .author-bio {
   font-size: 1.2rem;
   margin: 0.3rem 0;
@@ -728,13 +726,13 @@ padding: 2px .author-bio,
     display: block;
   }
   .author-avatar {
-    display: inline-block;
+    display: block;
     width: auto;
     height: auto;
     text-align: center;
   }
   .author-avatar img {
-    padding: 5px;
+    padding-bottom: 5px;
   }
   .author-discrip {
     display: block;
@@ -745,7 +743,7 @@ padding: 2px .author-bio,
   }
   .author-discrip .author-bio {
     font-size: 1.4rem;
-    margin-top: 8px;
+    margin-top: 20px;
     margin-bottom: 10px;
   }
   .author-links {
