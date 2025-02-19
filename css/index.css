@@ -534,9 +534,10 @@ blockquote p {
 }
 .author-avatar img {
   width: 100%;
-  max-width: 300px;
+  max-width: 200px;
   border-radius: 50%;
 }
+padding: 2px,
 .author-discrip {
   display: table-cell;
   vertical-align: top;
@@ -544,10 +545,12 @@ blockquote p {
   padding-right: 15px;
   line-height: 1;
 }
+padding: 2px h3,
 .author-discrip h3 {
   margin: 0px;
   font-size: 1.8rem;
 }
+padding: 2px .author-bio,
 .author-discrip .author-bio {
   font-size: 1.2rem;
   margin: 0.3rem 0;
