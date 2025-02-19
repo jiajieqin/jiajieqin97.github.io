@@ -529,8 +529,8 @@ blockquote p {
 .author-avatar {
   display: block;
   vertical-align: top;
-  width: 150px;
-  height: 150px;
+  width: 100px;
+  height: 100px;
 }
 .author-avatar img {
   width: 100%;
@@ -734,7 +734,7 @@ padding: 2px .author-bio,
     text-align: center;
   }
   .author-avatar img {
-    padding: 10px;
+    padding: 5px;
   }
   .author-discrip {
     display: block;
